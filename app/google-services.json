@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "40678025461",
+    "firebase_url": "https://ledglobal-23-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ledglobal-23",
+    "storage_bucket": "ledglobal-23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40678025461:android:2aabee567677195dd53dbc",
+        "android_client_info": {
+          "package_name": "com.example.globalactuators"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsE8j2HUkHakHteFUWDJOUNciXQQ714Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
